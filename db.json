@@ -1,0 +1,53 @@
+{
+  "users": [
+    {
+      "id": "3",
+      "email": "michael@example.com",
+      "name": "dakota johnson"
+    },
+    {
+      "id": "4",
+      "name": "Emily Davis",
+      "email": "emily@example.com"
+    },
+    {
+      "id": "5",
+      "name": "Chris Brown",
+      "email": "chris@example.com"
+    },
+    {
+      "id": "7",
+      "name": "Daniel Martinez",
+      "email": "daniel@example.com"
+    },
+    {
+      "id": "8",
+      "name": "Sophia Anderson",
+      "email": "sophia@example.com"
+    },
+    {
+      "id": "9",
+      "name": "James Thomas",
+      "email": "james@example.com"
+    },
+    {
+      "id": "10",
+      "name": "Isabella Taylor",
+      "email": "isabella@example.com"
+    },
+    {
+      "id": "11",
+      "name": "Prem Saldana (updated)",
+      "email": "Prem@example.com"
+    }
+  ],
+  "posts": [
+    {
+      "id": "1",
+      "title": "Hello World",
+      "content": "This is my first post.",
+      "userId": 1
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
